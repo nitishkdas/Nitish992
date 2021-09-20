@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Nitish Kumar Das
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Django Web Framework.
+- 👋 Hi, I’m Nitish Kumar Das.A Python Programmer.
+- 👀 I’m interested in Android Development.
+- 🤖 Also interested in Machine Learning.
+- 🌱 Currently, I'm learning Flutter.
 - 🆔 Follow me @nitish_kr_das
 
 <!---
